@@ -28,11 +28,12 @@
     "@vue/compiler-sfc": "^3.0.0-0",
     "axios": "^1.7.2",
     "babel-eslint": "^10.1.0",
-    "eslint": "^8.7.2",
+    "eslint": "^8.57.0",
     "eslint-plugin-vue": "^7.0.0-0",
     "sass": "^1.26.11",
     "sass-loader": "^10.0.2",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "vue-eslint-parser": "^9.4.3"
   },
   "eslintConfig": {
     "root": true,
