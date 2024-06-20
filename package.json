@@ -17,6 +17,7 @@
     "vue": "^3.0.0"
   },
   "dependencies": {
+    "@babel/eslint-parser": "^7.24.7",
     "core-js": "^3.6.5",
     "quill": "^2.0.2"
   },
